@@ -1,15 +1,15 @@
 {
-  "name": "mysql-db-example",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4",
-    "mysql": "^2.17.1"
-  }
+	"name": "nodejs_docker_app",
+	"version": "1.0.0",
+	"author": "Test",
+	"description": "Test",
+	"main": "app.js",
+	"scripts": {
+		"dev": "node app.js"
+	},
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"mysql2": "^2.2.5"
+	}
 }
